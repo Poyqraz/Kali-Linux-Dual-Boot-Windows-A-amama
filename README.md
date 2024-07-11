@@ -13,8 +13,6 @@ Kali Linux kurulumunu hatasız bir şekilde yaptığınızı ele alalım. Ama Ka
 10) Komutlarını çalıştır ve sistemi yaniden başlat. Böylece boot ekranında hem Windows hem de Kali işletim sistemlerini görüp seçebileceksin. Kolay gelsin.
 
     Görseller
-    ![boot-windows](https://github.com/Poyqraz/Kali-Linux-Dual-Boot-Windows-A-amama/assets/48729799/0f158861-295f-4c66-aab3-b5716d1a05f5)
-    
     ![Ekran görüntüsü 2024-07-11 094446](https://github.com/Poyqraz/Kali-Linux-Dual-Boot-Windows-A-amama/assets/48729799/9d2f7ef6-72be-481f-926a-5868f8de30ec)
 
     
