@@ -3,13 +3,13 @@ Kali Linux kurulumunu hatasız bir şekilde yaptığınızı ele alalım. Ama Ka
 1) Kali sistemini aç
 2) Komut satırına sırasıyla;
 
-3) sudo su (sonra şifreyi gir)
-4) cat /etc/os-release
-5) nano /etc/default/grub
+3)     sudo su (sonra şifreyi gir)
+4)     cat /etc/os-release
+5)     nano /etc/default/grub
 6) Açılan defterde ki "GRUB_TIMEOUT=5" değerini 25 yap. (Böylece boot seçmek için vaktimiz olacak)
 7) Ctrl+O ve Enter yap. Sonra Ctrl+X yapıp defterden çık. Terminala geri döndükten sonra; 
-8) update-grub
-9) reboot now
+8)     update-grub
+9)     reboot now
 10) Komutlarını çalıştır ve sistemi yaniden başlat. Böylece boot ekranında hem Windows hem de Kali işletim sistemlerini görüp seçebileceksin. Kolay gelsin.
 
     Görseller
